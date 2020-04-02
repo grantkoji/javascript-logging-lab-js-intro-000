@@ -1,3 +1,7 @@
+console.error("HALP!")
+console.log("Events")
+console.warn("Stop")
+
 const expect = require('expect')
 const fs = require('fs')
 const jsdom = require('jsdom')
@@ -42,5 +46,3 @@ describe('index', () => {
     })
   })
 })
-
-console.error("HALP!")
