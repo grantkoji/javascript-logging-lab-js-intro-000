@@ -1,4 +1,4 @@
-console.error("Happy Look Out!");
+console.error("HALP!")
 
 const expect = require('expect')
 const fs = require('fs')
