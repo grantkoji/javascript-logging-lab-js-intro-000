@@ -1,3 +1,5 @@
+console.error("Happy Look Out!");
+
 const expect = require('expect')
 const fs = require('fs')
 const jsdom = require('jsdom')
@@ -44,4 +46,3 @@ describe('index', () => {
     })
   })
 })
-console.error("Happy Look Out!")
